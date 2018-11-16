@@ -1,3 +1,9 @@
 body {
     color: blue;
+    background: orange;
+}
+
+h1 {
+    color: red;
+    font-style: italic;
 }
